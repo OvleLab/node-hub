@@ -1,22 +1,19 @@
-# Ovle Nodes
+# Ovle Node Hub
 
-## Overview
-**Ovle Nodes** is a central repository for blockchain infrastructure managed by **Ovle Lab**. It serves as a hub for various node-related projects, guides, and tools aimed at simplifying blockchain node deployment and management.
+## About Ovle Node Hub
+**Ovle Node Hub** is a dedicated repository for blockchain node infrastructure, managed by **Ovle Lab**. It serves as a hub for streamlined deployment, monitoring, and maintenance of blockchain nodes across multiple networks.
 
-## Purpose
-This repository provides structured documentation, automation scripts, and best practices for setting up and maintaining blockchain nodes. It aims to streamline node operations, enhance security, and improve network participation.
+## Key Features
+✅ **Comprehensive Guides** – Step-by-step setup instructions for each supported network.  
+✅ **Automated Deployment** – Pre-configured scripts to simplify node setup and maintenance.  
+✅ **Monitoring & Security** – Tools and best practices for performance optimization.  
+✅ **Active Community** – Contributions from Ovle Lab members and blockchain enthusiasts.  
 
-## Features
-- **Comprehensive Documentation** – Guides and best practices for node operations.
-- **Automation Tools** – Scripts to simplify setup, monitoring, and maintenance.
-- **Security & Performance** – Recommendations for optimizing node performance and ensuring security.
-- **Community & Collaboration** – A space for developers and enthusiasts to contribute and share knowledge.
+## Our Mission
+We aim to support blockchain ecosystems by ensuring efficient, secure, and scalable node operations. Through detailed guides and automation tools, we empower developers and enthusiasts to participate in network infrastructure effortlessly.
 
-## Contribution
-We encourage contributions from the community! Whether it's improving documentation, sharing insights, or developing new tools, your input is valuable. Feel free to submit a pull request or reach out to the Ovle Lab team.
-
-## Stay Connected
-Join our community discussions on **[Discord](https://discord.gg/ovlelab)** and follow us on **[Twitter](https://twitter.com/ovlelab)** for the latest updates.
+## Connect With Us
+| [Website](#) | [Twitter](https://twitter.com/ovlelab) | [Discord](https://discord.gg/ovlelab) |
 
 💜 **Ovle Lab – Paint the Tech World Purple!** 💜
 

@@ -60,7 +60,7 @@ source /root/.bashrc
 ## 6. Configure Your Gaia Node
 ### Initialize and Download AI Model:
 ```bash
-gaianet init --config
+gaianet init --config https://raw.githubusercontent.com/OvleLab/node-hub/refs/heads/main/Gaianet-Node/config.json
 ```
 
 ---

@@ -115,7 +115,7 @@ Interact with your AI agent at [Ovle Lab Gaia Domain](https://ovlelab.gaia.domai
 
 ### Download & Run AutoChat Bot:
 ```bash
-curl -L -o gaiabot.py https://github.com/OvleLab/node-hub/Gaianet-Node/raw/main/gaiabot.py
+curl -L -o gaiabot.py https://raw.githubusercontent.com/OvleLab/node-hub/refs/heads/main/Gaianet-Node/gaiabot.py
 ```
 
 Run the bot in a background session:

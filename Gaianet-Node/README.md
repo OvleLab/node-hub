@@ -6,7 +6,7 @@ Earn **GaiaPoints** by running a Gaia AI node with the **Qwen2.5-0.5B-Instruct**
 
 ## 1. Gaia Dashboard & XP Program
 ### Steps to Get Started:
-1. **Connect Your Wallet**: [Gaia Dashboard](https://gaianet.ai/reward?invite_code=Rw1iGQ) and complete registration.
+1. **Connect Your Wallet**: [Gaia Dashboard]([https://gaianet.ai/reward?invite_code=Rw1iGQ](https://gaianet.ai/reward?invite_code=RTG94H)) and complete registration.
 2. **Boost Your XP**: Use invite code **RTG94H**.
 3. **Earn More Points**: Complete social tasks on [Rewards Summary](https://www.gaianet.ai/reward-summary).
 

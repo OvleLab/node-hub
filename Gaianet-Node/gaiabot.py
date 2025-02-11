@@ -191,7 +191,7 @@ def run_bot(api_key: str):
 
 def main():
     print("Title: GaiaAI Chatbot")
-    print("Twitter: https://x.com/0xMoei")
+    print("Twitter: https://x.com/OvleLab")
     api_key = input("Enter your API key: ")
     run_bot(api_key)
 

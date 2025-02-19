@@ -80,7 +80,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/London  # 🌍 Replace with your server's timezone  
-      - CHROME_CLI=https://github.com/0xmoei # optional  
+      - CHROME_CLI=https://google.com/ # optional  
     volumes:
       - /root/chromium/config:/config
     ports:

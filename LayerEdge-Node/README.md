@@ -47,8 +47,15 @@ rustc --version
 ### ✅ Install Risc0 Toolchain
 
 ```sh
-curl -L https://risczero.com/install | bash && rzup install
-source $HOME/.cargo/env
+curl -L https://risczero.com/install | bash 
+```
+
+```sh
+source "/root/.bashrc"
+```
+
+```sh
+rzup install
 ```
 
 ---

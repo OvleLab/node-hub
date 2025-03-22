@@ -147,7 +147,7 @@ screen -r light_node
 
 ---
 
-✅ **Congratulations!** You've successfully set up your Layer Edge Light Node. If you encounter any issues, refer to the official documentation or community channels for support.
+✅ **Congratulations!** You've successfully set up your Layer Edge Light Node. If you encounter any issues, refer to the official [documentation](https://docs.layeredge.io/) or reach out to our Discord.
 
 ---
 

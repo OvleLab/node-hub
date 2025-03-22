@@ -53,23 +53,33 @@ sudo apt update && sudo apt upgrade -y
 apt install screen
 ```
 
-### 3️⃣ Download t3rn Binaries
+
+## 🔄 Step 3: Remove Previous Version (If Installed)
+
+If you have previously installed an older version, remove it before proceeding:
+```sh
+rm -rf executor-linux-v0.*
+rm -rf executor
+```
+
+
+### 4️⃣ Download t3rn Binaries
 ```sh
 wget https://github.com/t3rn/executor-release/releases/download/v0.56.0/executor-linux-v0.56.0.tar.gz
 ```
 
-### 4️⃣ Unzip the File
+### 5️⃣ Unzip the File
 ```sh
 tar -xvzf executor-linux-v0.56.0.tar.gz
 cd executor
 ```
 
-### 5️⃣ Create a Screen Session
+### 6️⃣ Create a Screen Session
 ```sh
 screen -S t3rn
 ```
 
-### 6️⃣ Set Up Environment Variables
+### 7️⃣  Set Up Environment Variables
 **Important:** Replace `<YOUR_WALLET_PRIVATE_KEY>` with your actual private key.
 ```sh
 export ENVIRONMENT=testnet

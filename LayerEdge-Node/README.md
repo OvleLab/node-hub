@@ -125,6 +125,10 @@ Run the following command to create a screen session for the Light Node:
 screen -S light_node
 ```
 
+```sh
+cd $HOME && cd light-node
+```
+
 In a separate terminal window, navigate to the root directory and execute:
 
 ```sh

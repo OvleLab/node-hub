@@ -163,6 +163,6 @@ You’ve successfully set up your **t3rn V2 Node**! If you encounter issues, ref
 This guide is brought to you by **Ovle Lab**, a community dedicated to blockchain innovation, decentralized networks, and hands-on learning. Stay connected and paint the tech world purple! 💜
 
 🔗 **Join our Community:**
-- [Discord](https://discord.gg/ovlelab)
+- [Discord](https://discord.gg/hr3eFR7PWY)
 - [Twitter](https://twitter.com/OvleLab)
 

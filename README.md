@@ -13,7 +13,7 @@
 We aim to support blockchain ecosystems by ensuring efficient, secure, and scalable node operations. Through detailed guides and automation tools, we empower developers and enthusiasts to participate in network infrastructure effortlessly.
 
 ## Connect With Us
-| [Website](#) | [Twitter](https://twitter.com/ovlelab) | [Discord](https://discord.gg/ovlelab) |
+| [Website](#) | [Twitter](https://twitter.com/ovlelab) | [Discord](https://discord.gg/hr3eFR7PWY) |
 
 💜 **Ovle Lab – Paint the Tech World Purple!** 💜
 

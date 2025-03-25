@@ -169,6 +169,6 @@ screen -r light_node
 Ovle Lab is a community-driven initiative focused on blockchain infrastructure, validator programs, and cutting-edge technology. We empower enthusiasts and developers through hands-on learning and real-world blockchain projects. Join us as we **paint the tech world purple 💜!**
 
 🔗 **Join our Community:**
-- [Discord](https://discord.gg/ovlelab)
+- [Discord](https://discord.gg/hr3eFR7PWY)
 - [Twitter](https://twitter.com/OvleLab)
 
